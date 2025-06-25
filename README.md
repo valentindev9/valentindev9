@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi there! I'm Fernando Valentin, a Full-Stack Developer based in Brazil.
 
-<!--
-**valentindev9/valentindev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I specialize in building scalable web and mobile applications using technologies like:
+- React.js / React Native
+- Node.js / Express
+- RESTful APIs & Integrations (RD Station, VTEX, Senior, CRM tools)
+- SQL & NoSQL databases
+- UI/UX-focused front-end development
 
-Here are some ideas to get you started:
+📊 I work closely with marketing and operations teams to create automation workflows, optimize user experiences, and integrate business systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Passionate about technology, clean code, and solving real-world problems through software.
+
+🚀 Currently exploring:
+- Data Analytics with Python
+- API-first architecture
+- International remote opportunities
+
+Let’s connect!  
+📫 fernandojuniordev9@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/fernando-valentin-da-silva-junior-250550197/)
