@@ -3,7 +3,7 @@
 💻 I specialize in building scalable web and mobile applications using technologies like:
 - React.js / React Native
 - Node.js / Express
-- RESTful APIs & Integrations (RD Station, VTEX, Senior, CRM tools)
+- RESTful APIs & Integrations (CRM, E-commerce, ERP, CRM tools)
 - SQL & NoSQL databases
 - UI/UX-focused front-end development
 
